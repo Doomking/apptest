@@ -1,4 +1,4 @@
 # apptest
-[测试地址](http://xinche-test.guazi-corp.com/www/fyc)
-        <http://xinche-test.guazi-corp.com/www/fyc/>
-        <a href="http://xinche-test.guazi-corp.com/www/fyc"/>测试地址</a>
+[测试地址](http://m.maodou.com/www/fyc)
+        <http://m.maodou.com/www/fyc/>
+        <a href="http://m.maodou.com/www/fyc"/>测试地址</a>
